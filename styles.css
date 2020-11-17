@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  background-color: #dbf6e9;
+  font-family: 'Merriweather', serif;
+  color:#40514e;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 70px;
+  color: #fffdf9;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #519872;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  color:#86c4ba;
+}
+hr{
+  border:dotted #81f5ff 6px;
+  border-bottom:none;
+  width:4%;
+  margin:50 auto;
+
+
+}
+
+.topblock {
+  background-color: #99D9EA;
+  text-align: center;
+  position: relative;
+  padding-top: 80px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+  border-radius: 100%;
+}
+
+.mountain {
+  width: 1100px;
+  height: 200px;
+  margin-bottom: 50px;
+  background-color: #99D9EA;
+}
+
+.bottomcloud {
+  position: absolute;
+  border-radius: 100%;
+  bottom: 250px;
+}
+.middle-container {
+  padding-top: 50px;
+  text-align: center;
+  background-color:white;
+
+
+    padding-bottom: 20px;
+
+}
+.profile{
+   margin-bottom: 30px;
+
+}
+.intro{
+  width:40%;
+  margin:auto;
+}
+.skills{
+  margin-top: 40px;
+}
+.box1 {
+  width: 200px;
+  height: 200px;
+  background-color: #b2deec;
+  padding :10px;
+}
+
+.box2 {
+  width: 200px;
+  height: 200px;
+  margin-left: 220px;
+  background-color: #b2deec;
+}
+.comp{
+  border-radius:0%;
+  width:200px;
+}
+
+.box3 {
+  width: 200px;
+  height: 200px;
+  margin-left: 420px;
+  padding:10 ;
+  padding-bottom: 40px;
+  display: inline-block;
+  padding-left: 10px;
+padding-right: 10px;
+
+  background-color: #b2deec;
+}
+
+
+.box{
+  text-align: center;
+  color:red;
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+}
+.boxp{
+  color:#ea2c62;
+  font-family: 'Syne Mono', monospace;
+}
+
+.lowerblock {
+  margin-left: 400px;
+  margin-top: 80px;
+  padding-bottom: 30px;
+
+}
+
+.para {
+  padding-bottom: 40px;
+  font-size: 25px;
+  color: #e8e8e8;
+}
+
+.Enthusiastic {
+  text-decoration: underline;
+}
+
+
+
+.dp {
+  width: 200px;
+  border-radius: 100%
+}
+.web-img {
+  float: left;
+  margin-right: 30px;
+}
+.code-img {
+  float: right;
+  margin-left: 30px;
+  width:200px;
+}
+
+.chillies-img {
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color:white;
+  padding-top: 20px;
+
+}
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+/* Facebook */
+
+
+
+img {
+  border-radius: 100%;
+}
+.contact-message{
+  width:40%;
+  margin:auto;
+  line-height: 2;
+}
+.foot{
+padding-top: 40px;
+background-color:#e0ece4;
+}
+.fa-chess-pawn{
+  font-size: 20px;
+}
+.last{
+margin-bottom: 0px;
+padding-bottom:25px;
+}
